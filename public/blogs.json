@@ -1,0 +1,53 @@
+[
+    {
+      "id": "B123456",
+      "cover": "https://i.ibb.co/XsjKMh1/5922238.jpg",
+      "title": "Secrets of the Enchanted Forest",
+      "author": "Emma J. Smith",
+      "author-img": "https://i.ibb.co/61BYFwx/Adven-author.jpg",
+      "posted-date": "September 5, 2023",
+      "reading-time": 5,
+      "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+      "id": "A789012",
+      "cover": "https://i.ibb.co/q752RGQ/Ocen.jpg",
+      "title": "Exploring the Mysteries of the Deep Sea",
+      "author": "John D. Anderson",
+      "author-img": "https://i.ibb.co/zbyN3FW/Ocean-author.jpg",
+      "posted-date": "August 22, 2023",
+      "reading-time": 10,
+      "hashtags": ["#Oceanography", "#MarineLife", "#Science"]
+    },
+    {
+      "id": "E456789",
+      "cover": "https://i.ibb.co/J3dnRWT/Technology.jpg",
+      "title": "The Digital Revolution Handbook",
+      "author": "Sarah M. Johnson",
+      "author-img": "https://i.ibb.co/zGJmzSD/Tech-author.jpg",
+      "posted-date": "July 12, 2023",
+      "reading-time": 20,
+      "hashtags": ["#Technology", "#Innovation", "#Digital"]
+    },
+    {
+      "id": "P567890",
+      "cover": "https://i.ibb.co/jZ1469J/hope-house-press-leather-diary-studio-IOzk8-YKDh-Yg-unsplash.jpg",
+      "title": "Whispers of the Heart: Poems of Love",
+      "author": "Michael R. Davis",
+      "author-img": "https://i.ibb.co/3ChqnNw/P-author.jpg",
+      "posted-date": "June 1, 2023",
+      "reading-time": 45,
+      "hashtags": ["#Poetry", "#LovePoems", "#Emotions"]
+    },
+    {
+      "id": "M234567",
+      "cover": "https://i.ibb.co/N3k9rLX/Travel.jpg",
+      "title": "The Culinary Delights of Paris",
+      "author": "Lisa K. Turner",
+      "author-img": "https://i.ibb.co/6Rc9BTD/Travel-author.jpg",
+      "posted-date": "May 10, 2023",
+      "reading-time": 35,
+      "hashtags": ["#Travel", "#Foodies", "#Paris"]
+    }
+  ]
+  
